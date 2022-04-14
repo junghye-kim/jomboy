@@ -87,7 +87,7 @@ li{
   width: 60%;
   height: auto;
   position: absolute;
-  top: 119%;
+  top: 135%;
   left: 20%;
   border-bottom: 3px solid #395438;
   line-height: 1.5
@@ -97,11 +97,16 @@ li{
   width: 40%;
 }
 
+.g_logo{
+  width: 30%;
+  margin-left: 35%;
+}
+
 .civis{
   width: 60%;
   height: auto;
   position: absolute;
-  top: 142%;
+  top: 157%;
   left: 20%;
   border-bottom: 3px solid #395438;
   line-height: 1.5;
@@ -111,7 +116,7 @@ li{
   width: 60%;
   height:15%;
   position: absolute;
-  top: 169%;
+  top: 184%;
   left: 20%;
   border-bottom: 3px solid #395438;
   padding-bottom: 3%;
@@ -123,7 +128,7 @@ li{
   width: 60%;
   height:15%;
   position: absolute;
-  top: 192%;
+  top: 208%;
   left: 20%;
   border-bottom: 3px solid #395438;
   margin-bottom: 10%;
@@ -134,11 +139,17 @@ li{
   width: 70%;
 }
 
+.poster{
+  width: 40%;
+  margin-left: 30%;
+  border: 2px solid #f7deab;
+}
+
 .goodbye{
   width: 60%;
   height:15%;
   position: absolute;
-  top: 205%;
+  top: 225%;
   left: 20%;
   line-height: 1.5;
   margin-bottom: 5%;
@@ -146,7 +157,7 @@ li{
 }
 
 a{
-  color: #d4d4d4;
+  color: #f7deab;
   font-family: 'Josefin Sans', sans-serif;
 }
 
