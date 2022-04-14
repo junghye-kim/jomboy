@@ -23,8 +23,9 @@ li{
 }
 
 .hi{
-  width: 40%;
-  margin-left:2%;
+  width: 30%;
+  margin-left:1%;
+  margin-top:5%;
 }
 
 .intro{
@@ -33,30 +34,42 @@ li{
   position: absolute;
   top: 5%;
   left: 20%;
-  border: 3px solid #F5D487;
+  border-bottom: 3px solid #395438;
   line-height: 1.5
 }
 
 .text{
   font-family: 'Josefin Sans', sans-serif;
-  color: #5e5e5e;
+  color: #395438;
   margin: 0% 15px 10% 15px;
 
 }
 
+.header{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #395438;
+  margin: 0% 15px 0% 15px;
+  font-size: 30px;
+  letter-spacing: 4px;
+}
+
 .ideas_text{
   font-family: 'Josefin Sans', sans-serif;
-  color: #5e5e5e;
+  color: #395438;
+}
 
+li{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #395438;
 }
 
 .initial_ideas{
   width: 60%;
   height: auto;
   position: absolute;
-  top: 45%;
+  top: 43%;
   left: 20%;
-  border: 3px solid #F5D487;
+  border-bottom: 3px solid #395438;
   line-height: 1.5
 }
 
@@ -64,9 +77,9 @@ li{
   width: 60%;
   height: auto;
   position: absolute;
-  top: 85%;
+  top: 83%;
   left: 20%;
-  border: 3px solid #F5D487;
+  border-bottom: 3px solid #395438;
   line-height: 1.5
 }
 
@@ -74,9 +87,9 @@ li{
   width: 60%;
   height: auto;
   position: absolute;
-  top: 125%;
+  top: 119%;
   left: 20%;
-  border: 3px solid #F5D487;
+  border-bottom: 3px solid #395438;
   line-height: 1.5
 }
 
@@ -88,9 +101,9 @@ li{
   width: 60%;
   height: auto;
   position: absolute;
-  top: 155%;
+  top: 142%;
   left: 20%;
-  border: 3px solid #F5D487;
+  border-bottom: 3px solid #395438;
   line-height: 1.5;
 }
 
@@ -98,24 +111,39 @@ li{
   width: 60%;
   height:15%;
   position: absolute;
-  top: 195%;
+  top: 169%;
   left: 20%;
-  border: 3px solid #F5D487;
+  border-bottom: 3px solid #395438;
+  padding-bottom: 3%;
   line-height: 1.5;
 
+}
+
+.tools{
+  width: 60%;
+  height:15%;
+  position: absolute;
+  top: 192%;
+  left: 20%;
+  border-bottom: 3px solid #395438;
+  margin-bottom: 10%;
+  line-height: 1.5;
+}
+
+.tools_logo{
+  width: 70%;
 }
 
 .goodbye{
   width: 60%;
   height:15%;
   position: absolute;
-  top: 465%;
+  top: 205%;
   left: 20%;
   line-height: 1.5;
   margin-bottom: 5%;
 
 }
-
 
 a{
   color: #d4d4d4;
@@ -132,6 +160,6 @@ a{
 }
 
 .signature{
-  width:50%;
-  margin-left: 25%;
+  width:30%;
+  margin-left: 37%;
 }
